@@ -1,0 +1,12 @@
+{
+    "python": {
+        "excludePatterns": [
+            "__pycache__"
+        ]
+    }, 
+    "nodejs": {
+        "excludePatterns": [
+            "node_modules"
+        ]
+    }
+}
