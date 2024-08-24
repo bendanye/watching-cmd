@@ -1,4 +1,4 @@
-# watching-cmd
+# watching-directory
 
 Watch directory and run command if there is changes.
 
